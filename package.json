@@ -8,5 +8,8 @@
     "start": "gulp"
   },
   "author": "patw (patw.hi@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
